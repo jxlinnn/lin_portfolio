@@ -7,5 +7,5 @@
 * Task 1 of Quantium's Virtual Internship offered on Forage
 * Data cleaned and analyzed data based on purchase behavior, preferences, and customer demographics.
 
-## Exploring COVID Data
+## [Exploring COVID Data](https://github.com/jxlinnn/lin_portfolio/blob/c655ae8c7183d61124a58879209ce33bfe0f3e06/Exploring%20Global%20COVID%20Data)
 * Filtered datset to retreive statistics such as countries with leading confirmed cases, vaccination rate, and etc.
