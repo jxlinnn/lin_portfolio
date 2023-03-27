@@ -1,4 +1,4 @@
-# jenny's_portfolio
-
-# [Project 1: Retreiving Win/Loss Correlation](https://github.com/jxlinnn/lin_portfolio#:~:text=Commit%20time-,Project%201,-Create%20Project%201)
-* Cleaned up a HTML file of metropolitan regions and a CSV of local sports teams using Pandas to retrieve the win/loss correlation of each city using Pearson correlation
+## [Media Campaign Cost Prediction](https://github.com/jxlinnn/lin_portfolio/blob/876687a5eec037a971954c212c37313942d7d150/MLProject.ipynb)
+* Trained and implemented Gradient Boost Regressor model for Kaggle Playground Season 3, Episode 11
+* Model is scored based on the root mean squared log error (RMSLE)
+* Resulting RMSLE for test dataset is 0.29830
